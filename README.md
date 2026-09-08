@@ -1,1 +1,1 @@
-This is my personal python cheat sheet or notes, whichever you call it!
+This is my python notes repository, where i upload my current progress of learning python using w3schools, eventually i will also be making other personal projects on my Github account and would also want to expand my knowledge to other programming languages in the future.
